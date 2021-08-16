@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .flex{
+  color: red;
+  display: flex;
+  margin: 20px;
+}
+
+.flex-head{
+  color: blue;
+  display: flex;
+} */
+.head{
+  color: blue;
+  margin-left: 30%;
+}
+.tr{
+  /* color: aqua; */
+  padding-left:15% ;
+  text-align: center;
+
+}
+
+.head-1{
+  color: blue;
+  margin-left: 32%;
+  text-align: center;
+
+}
+
+.tr-1{
+  /* color: aqua; */
+  padding-left:53px ;
+  text-align: center;
+  float: left;
+}
+
+.tr-2{
+  /* color: aqua; */
+  padding-left:83px ;
+  text-align: center;
+  float: left;
+}
